@@ -1,6 +1,6 @@
 # Algorithms & Data Structures
 
-Subject of Computer Engineering at Faculty of Engineering of Buenos Aires. Its purpose is to understand how different types of structures work, and start to abstract from its implementation when it is used.
+Subject of Computer Engineering at Faculty of Engineering of Buenos Aires. Its purpose is to understand how different types of structures work, and start to abstract from its implementation when they are used.
 
 The language used was Go, and the projects that had benn developed was all useful for seerver-side knowledge.
 
