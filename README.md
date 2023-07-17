@@ -2,7 +2,7 @@
 
 Subject of Computer Engineering at Faculty of Engineering of Buenos Aires. Its purpose is to understand how different types of structures work, and start to abstract from its implementation when they are used.
 
-The language used was Go, and the projects that had benn developed was all useful for seerver-side knowledge.
+The language used was Go, and the projects that had been developed was all useful for server-side knowledge.
 
 To test all the features and projects, you must have Go installed in your computer, and run the following commands in the terminal: 
 
