@@ -40,16 +40,7 @@ Las pruebas deberán verificar que:
 
 Además de todos los casos no descriptos que ustedes crean necesarios.
 
-La estructura de directorios del módulo/proyecto en el que se deberá trabajar es:
 
-```
-tdas
-    |--> pila
-        |---> pila.go
-        |---> pila_dinamica.go
-        |---> pila_test.go
-    |--> go.mod
-```
 ## Para compilar y verificar las pruebas:
 
 ### Compilar todo el código:
