@@ -12,6 +12,7 @@ go work use tdas
 go work use tp1
 go work use tp2
 go work use tp3
+go mod tidy
 ```
 
 The `go work init` will create a workspace that is going to be useful for connecting all the modules and packages.
