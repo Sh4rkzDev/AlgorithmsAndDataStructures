@@ -53,6 +53,8 @@ ERROR: Faltan parámetros
 
 En caso de errores, el programa debe terminar su ejecución.
 
+<br>
+<br>
 
 ## Comando: ingresar
 
@@ -89,7 +91,9 @@ ingresar 123
 ERROR: DNI fuera del padrón
 ```
 
-  
+<br>
+<br>
+
 
 ## Comando: votar
 
@@ -154,6 +158,9 @@ Gobernador: Lista 4
 Intentente: Lista 5
 
 
+<br>
+<br>
+
 ## Comando: deshacer
 
 ### Formato
@@ -190,6 +197,9 @@ Gobernador: Lista 4
 Intentente: Lista 5
 
 La operación que se deshizo fue la de haber votado para presidente a lista 2.
+
+<br>
+<br>
 
 
 ## Comando: fin-votar
@@ -230,6 +240,9 @@ El voto finalmente emitido será:
 Presidente: Lista 1
 Gobernador: Voto en Blanco
 Intentente: Lista 5
+
+<br>
+<br>
 
 ## Fin de ejecución del programa
 
